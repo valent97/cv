@@ -1,0 +1,134 @@
+.top-container {
+	background-color: #DCFBFB;	
+	position: relative;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+	margin-top: 50px;
+	background-color: #B3EBBF;
+	width: 100%;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	line-height: 2;
+	
+}
+
+a {
+	text-decoration: none;
+	margin-top: 20px auto;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+
+.contact-me {
+	margin-bottom: 50px auto 40px auto;
+}
+
+.pro {
+	text-decoration: underline;
+}
+
+.top-cloud {
+	position: absolute;
+	top: 50px;
+	right: 200px;
+
+}
+
+.bottom-cloud {
+	position: absolute;
+	top: 400px;
+}
+
+.photo {
+	height: 200px;
+	border-radius: 80%;
+}
+
+.computer {
+	width: 25%;
+	border-radius: 100px;
+	float: left;
+	margin-right: 30px;
+}
+
+.chillies {
+	width:  25%;
+	float: right;
+	margin-left: 30px;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 1.5;
+}
+
+.profile {
+	width: 40%;
+	margin: 30px auto 30px auto;
+}
+
+.codethree {
+	margin-bottom: 30px;
+}
+
+body {
+	margin: 0px;
+	text-align: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	margin: 0;
+	padding-top: 100px; 
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+	font-size: 5.625rem;
+	color: #9CE9A5;
+}
+
+h2 {
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+	font-size: 2.5rem;
+	color: #9CE9A5;
+}
+
+h3 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #9CE9A5;
+
+}
+
+
+
